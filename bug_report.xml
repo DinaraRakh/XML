@@ -1,6 +1,6 @@
 <req> 
   <Environment>Huawei P30 lite (MAR LX-1M), Android 10 EMUI 10.0.0.490</Environment>
-  <id>Bug_id</id>
+  <id>1</id>
   <title>Add widget” button function is not working on device</title>
   <severity>blocker</severity>
   <priority>high</priority>
